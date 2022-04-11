@@ -12,7 +12,7 @@ This is an angular cli application where you can add habits, edit habits and del
 > Follow this [article](https://betterprogramming.pub/learn-angular-basics-by-building-a-simple-app-using-angular-material-9bbc19aa33cf) to guide you in creating this application. It offers great insight to a beginner on angular. 
 
 ## Live Page 
-https://charawey-x.github.io/habit-tracker/ 
+https://charawey-x.github.io/habit-tracker/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1.
 
