@@ -1,5 +1,19 @@
 # HabitTracker
 
+
+## Author
+
+[Charawey](https://github.com/Charawey-X)
+
+## Description
+
+This is an angular cli application where you can add habits, edit habits and delete habits.
+
+> Follow this [article](https://betterprogramming.pub/learn-angular-basics-by-building-a-simple-app-using-angular-material-9bbc19aa33cf) to guide you in creating this application. It offers great insight to a beginner on angular. 
+
+## Live Page 
+https://charawey-x.github.io/habit-tracker/ 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1.
 
 ## Development server
@@ -25,3 +39,28 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## Installation / Setup instruction
+* Open Terminal {Ctrl+Alt+T}
+
+* git clone ```https://github.com/Charawey-X/habit-tracker.git```
+
+* cd habit-tracker
+
+* code . or atom . based on the text editor you use.
+
+## Technologies Used
+
+* [HTML5](https://github.com/topics/html5)
+* [CSS](https://github.com/topics/css3)
+* [AngularCLI](https://angular.io/cli)
+* [Angular Material](https://material.angular.io/)
+
+## Known Bugs
+* None
+
+## Contact Information 
+
+If you have any question or contributions, please email me at [charawey@gmail.com]
+
